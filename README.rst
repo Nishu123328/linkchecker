@@ -12,7 +12,7 @@ LinkChecker
 
 Check for broken links in web sites.
 
-Features
+Features:
 ---------
 
 - recursive and multithreaded checking and site crawling
